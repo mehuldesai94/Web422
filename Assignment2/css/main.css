@@ -1,0 +1,11 @@
+.well {
+  max-height: 300px;
+  overflow-y: scroll; }
+
+.navbar-brand {
+  font-family: 'Times New Romans';
+  opacity: 0.8;
+  font-size: 25px;
+  letter-spacing: 4px;
+  font-style: bold;
+  text-shadow: 1px 2px #be0a22; }
